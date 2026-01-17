@@ -1,0 +1,4 @@
+class UserSerializer:
+    pass
+
+
